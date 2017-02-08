@@ -369,7 +369,7 @@
             this.pass.PasswordChar = '*';
             this.pass.Size = new System.Drawing.Size(100, 22);
             this.pass.TabIndex = 18;
-            this.pass.Text = "80408228";
+            this.pass.Text = "xxx";
             // 
             // label8
             // 
