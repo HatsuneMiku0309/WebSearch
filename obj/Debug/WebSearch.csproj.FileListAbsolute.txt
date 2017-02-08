@@ -1,0 +1,9 @@
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\bin\Debug\WebSearch.exe.config
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\obj\Debug\WebSearch.Form1.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\obj\Debug\WebSearch.Properties.Resources.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\obj\Debug\WebSearch.csproj.GenerateResource.Cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\bin\Debug\WebSearch.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\bin\Debug\WebSearch.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\bin\Debug\MySql.Data.dll
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\obj\Debug\WebSearch.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\WebSearch\obj\Debug\WebSearch.pdb

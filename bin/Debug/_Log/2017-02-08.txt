@@ -1,0 +1,13 @@
+
+2017-02-08 16:07:13：DBsearchText_mysql錯誤
+2017-02-08 16:07:14：DBweb_mysql錯誤
+2017-02-08 16:08:12：DBsearchText_mysql錯誤
+2017-02-08 16:08:12：DBweb_mysql錯誤
+2017-02-08 16:08:37：DBsearchText_mysql錯誤
+2017-02-08 16:08:39：DBweb_mysql錯誤
+2017-02-08 16:08:54：DBsearchText_mysql錯誤
+2017-02-08 16:08:55：DBweb_mysql錯誤
+2017-02-08 16:11:57：DBsearchText_mysql錯誤
+2017-02-08 16:11:58：DBweb_mysql錯誤
+2017-02-08 16:12:51：DBsearchText_mysql錯誤
+2017-02-08 16:12:52：DBweb_mysql錯誤
