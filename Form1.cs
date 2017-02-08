@@ -92,7 +92,7 @@ namespace WebSearch
         {
             int count = 0;
             string sql;
-            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = 80408228";
+            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = xxx";
             MySqlCommand cmd;
             MySqlDataReader read;
             MySqlConnection sqlconn = new MySqlConnection(strconn);
@@ -249,7 +249,7 @@ namespace WebSearch
         private void DBweb()
         {
             int count = 0;
-            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = 80408228";
+            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = xxx";
             int last_limit = 0;
             MySqlCommand cmd;
             MySqlDataReader read;
@@ -305,7 +305,7 @@ namespace WebSearch
         {
             int count = 0;
             string sql;
-            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = 80408228";
+            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = xxx";
             MySqlCommand cmd;
             MySqlDataReader read;
             MySqlConnection sqlconn = new MySqlConnection(strconn);
@@ -369,7 +369,7 @@ namespace WebSearch
         {
             int count = 0;
             string sql;
-            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = 80408228";
+            //string strconn = "SERVER = localhost; DATABASE = test; User ID = root ; password = xxx";
             MySqlCommand cmd;
             MySqlDataReader read;
             MySqlConnection sqlconn = new MySqlConnection(strconn);
